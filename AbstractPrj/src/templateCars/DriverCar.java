@@ -1,6 +1,6 @@
 package templateCars;
 
-public class ManualCar extends Car {
+public class DriverCar extends Car {
 	
 	@Override
 	public void drive() {

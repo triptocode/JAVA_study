@@ -1,6 +1,6 @@
 package templateCars;
 
-public class AICar extends Car {
+public class DriverlessCar extends Car {
 	
 	@Override
 	public void drive() {

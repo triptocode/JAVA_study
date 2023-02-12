@@ -3,11 +3,14 @@ package templateCars;
 public class CarTest {
 	public static void main(String[] args) {
 		
-		Car aiCar =new AICar();
-		aiCar.run();
-		System.out.println("==========================");
+		System.out.println("==== DriverlessCar info ====");
 		
-		Car manualCar = new ManualCar();
+		Car aiCar =new DriverlessCar();
+		aiCar.run();
+		
+		System.out.println("==== DriverCar info ====");
+		
+		Car manualCar = new DriverCar();
 		manualCar.run();
 	}
 
