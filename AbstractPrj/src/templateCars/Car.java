@@ -6,7 +6,7 @@ public abstract class Car {
 	public abstract void stop();
 	
 	public void startCar() {
-		System.out.println("시동을 킨다");
+		System.out.println("시동을 킴");
 	}
 	
 	public void turnOff() {
