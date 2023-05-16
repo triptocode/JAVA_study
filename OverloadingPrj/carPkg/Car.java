@@ -29,7 +29,7 @@ public class Car {
     // 오버라이드는 다른 메서드명으로 재정의 한것
     @Override
     public String toString() {
-        return  "[모델명: " + modelName+"] ,"+"[모델사이즈: "+modelSize+"], "+"[모델연도: " + modelYear+"]";
+        return  "[모델명: " + modelName+"] "+"[모델사이즈: "+modelSize+"] "+"[모델연도: " + modelYear+"]";
     }
 
 }
