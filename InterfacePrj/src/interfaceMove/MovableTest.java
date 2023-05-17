@@ -10,7 +10,6 @@ public class MovableTest {
 		m1.moveRight();
 		System.out.println(m1);
 	}
-		
 }
 
 

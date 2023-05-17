@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaa5e6a3-7475-498c-85ad-04d392f94459" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/carPkg/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carPkg/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carPkg/DriverCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carPkg/DriverlessCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="aaa5e6a3-7475-498c-85ad-04d392f94459" name="Changes" comment="abstract class/method / default method / 부모클래스에서 abstract 메서드로하면 {}는 모든 자식클래스들이 구현해야함">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/templateCars/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/templateCars/CarTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/templateCars/DriverCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/templateCars/DriverlessCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templateCars/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templateCars/CarTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templateCars/DriverCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templateCars/DriverlessCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OverloadingPrj/carPkg/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OverloadingPrj/carPkg/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OverloadingPrj/carPkg/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OverloadingPrj/carPkg/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OverloadingPrj/out/production/OverloadingPrj/carPkg/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OverloadingPrj/out/production/OverloadingPrj/carPkg/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OverloadingPrj/out/production/OverloadingPrj/carPkg/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OverloadingPrj/out/production/OverloadingPrj/carPkg/CarTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/ITstudy/tc_Java_basic/OverloadingPrj",
+    "last_opened_file_path": "C:/ITstudy/tc_Java_basic/InterfacePrj",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,11 +55,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684207245985</updated>
-      <workItem from="1684207247553" duration="2212000" />
+      <workItem from="1684207247553" duration="2454000" />
     </task>
+    <task id="LOCAL-00001" summary="abstract class/method / default method / 부모클래스에서 abstract 메서드로하면 {}는 모든 자식클래스들이 구현해야함">
+      <created>1684224895417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684224895417</updated>
+    </task>
+    <task id="LOCAL-00002" summary="abstract class/method / default method / 부모클래스에서 abstract 메서드로하면 {}는 모든 자식클래스들이 구현해야함">
+      <created>1684224918197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684224918197</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="abstract class/method / default method / 부모클래스에서 abstract 메서드로하면 {}는 모든 자식클래스들이 구현해야함" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract class/method / default method / 부모클래스에서 abstract 메서드로하면 {}는 모든 자식클래스들이 구현해야함" />
   </component>
 </project>
