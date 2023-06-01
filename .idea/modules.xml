@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ThreadPrj/ThreadPrj.iml" filepath="$PROJECT_DIR$/ThreadPrj/ThreadPrj.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tc_Java_basic.iml" filepath="$PROJECT_DIR$/.idea/tc_Java_basic.iml" />
     </modules>
   </component>

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaa5e6a3-7475-498c-85ad-04d392f94459" name="Changes" comment="abstract class/method / default method / 부모클래스에서 abstract 메서드로하면 {}는 모든 자식클래스들이 구현해야함">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aaa5e6a3-7475-498c-85ad-04d392f94459" name="Changes" comment="abstract class/method / default method / 부모클래스에서 abstract 메서드로하면 {}는 모든 자식클래스들이 구현해야함" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/ITstudy/tc_Java_basic/InterfacePrj",
+    "last_opened_file_path": "C:/ITstudy/tc_Java_basic/interfaceCalc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684207245985</updated>
       <workItem from="1684207247553" duration="2454000" />
+      <workItem from="1685657543996" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="abstract class/method / default method / 부모클래스에서 abstract 메서드로하면 {}는 모든 자식클래스들이 구현해야함">
       <created>1684224895417</created>
