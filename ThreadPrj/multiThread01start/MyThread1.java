@@ -1,4 +1,4 @@
-package multiThreadRun;
+package multiThread01start;
 
 public class MyThread1 extends Thread{
     public void run(){

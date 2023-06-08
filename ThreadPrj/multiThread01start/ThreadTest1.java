@@ -1,6 +1,4 @@
-package multiThreadRun;
-
-import multiThreadRun.MyThread1;
+package multiThread01start;
 
 public class ThreadTest1{
     public static void main(String args[]){

@@ -1,4 +1,4 @@
-package multiThreadRunnable;
+package multiThread02startName;
 
 public class MyThread2 implements Runnable{
     public void run(){
