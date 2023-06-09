@@ -1,6 +1,6 @@
 package multiThread02yieldJoin;
 
-public class JoinTest2 {
+public class Test2 {
     public static void main(String[] args) throws InterruptedException {
 
         Thread t1 = new MyThread2();
