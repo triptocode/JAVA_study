@@ -9,7 +9,7 @@ class MyClass2 { public String toString(){return "마이클래스2";}}
 // MyClass2에서는 Object클래스의 toString메소드를 상속받고, override 재정의 --> 문자그대로 나옴 "마이클래스2"
 // MyClass1은 참조주소값으로 나옴 --> lang01Obj.MyClass1@1b6d3586
 
-public class objToStringTest {
+public class ObjToStringTest {
     public static void main(String[] args) {
         MyClass1 c1 = new MyClass1();
         MyClass2 c2 = new MyClass2();
