@@ -2,8 +2,8 @@ package lang01Obj;
 
 
 class MyClass1{}
-class MyClass2 { public String toString(){return "마이클래스2";}}
-//class MyClass2 extends Object{ public String toString(){return "마이클래스2";}}
+class MyClass2 { public String toString(){return "Object클래스의 toString메소드를 상속받고, override 재정의";}}
+//class MyClass2 extends Object{ public String toString(){return "Object클래스의 toString메소드를 상속받고, override 재정의";}}
 // 위의 MyClass1, 과 MyClass2 모두 Object를 extends하고 있고, 해당부분 생략가능.
 
 // MyClass2에서는 Object클래스의 toString메소드를 상속받고, override 재정의 --> 문자그대로 나옴 "마이클래스2"
