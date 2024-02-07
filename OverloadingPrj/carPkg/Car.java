@@ -17,7 +17,6 @@ public class Car {
     // 생성자 메서드 2
     // overloade : 메서드명은 동일, 파라미터는 다르게!
     // 오버로딩으로 동일한 Car메서드명 1번과 2번이 다른 파라미터로 구성함
-
      Car(String name, String size, int year) {
         modelName = name;
         modelSize = size;
